@@ -1,16 +1,16 @@
 # A brief guide for setting up github respository
 
 Web side
-1. create respository on github.
+# create respository on github.
 links: https://github.com/shaowenliu/r_learning
 
 Local side
-1. create local folder 'r_learning'
+# create local folder 'r_learning'
 >> cd path/to/r_learning
 >> git init
 >> git remote add origin https://github.com/shaowenliu/r_learning
 
-2. write some code
+# write some code
 >> git add.
 >> git status
 >> git commit -m 'first code'
