@@ -1,15 +1,19 @@
-# setup github remote
+# A brief guide for setting up github respository
 
 Web side
-1. create resposiry on github.
+1. create respository on github.
 links: https://github.com/shaowenliu/r_learning
 
 Local side
 1. create local folder 'r_learning'
-2. cd path/to/r_learning
-   git init
-3. git remote add origin https://github.com/shaowenliu/r_learning
-4. write some code
-5. 
-5. git pull origin master
-6. git remote add origin https://github.com/shaowenliu/r_learning
+>> cd path/to/r_learning
+>> git init
+>> git remote add origin https://github.com/shaowenliu/r_learning
+
+2. write some code
+>> git add.
+>> git status
+>> git commit -m 'first code'
+>> git pull origin master  # control+X exist the window
+>> git push -u origin master
+
